@@ -1,0 +1,27 @@
+body {
+    background-color:rebeccapurple;
+    color:darkorange;
+}
+
+.intro, .greeting {
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+.pages h2 {
+    display: inline-block;
+}
+
+a {
+    color: rgb(255, 115, 0);
+}
+a:visited {
+    color:green;
+}
+a:hover {
+    color: #00ff00;
+}
+a:active {
+    color:white;
+}
